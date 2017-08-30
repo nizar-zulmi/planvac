@@ -1,0 +1,10 @@
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/bin/Debug/netcoreapp2.0/TravelApp.deps.json
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/bin/Debug/netcoreapp2.0/TravelApp.runtimeconfig.json
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/bin/Debug/netcoreapp2.0/TravelApp.runtimeconfig.dev.json
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/bin/Debug/netcoreapp2.0/TravelApp.dll
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/bin/Debug/netcoreapp2.0/TravelApp.pdb
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/obj/Debug/netcoreapp2.0/TravelApp.csproj.CoreCompileInputs.cache
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/obj/Debug/netcoreapp2.0/TravelApp.AssemblyInfoInputs.cache
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/obj/Debug/netcoreapp2.0/TravelApp.AssemblyInfo.cs
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/obj/Debug/netcoreapp2.0/TravelApp.dll
+/Users/nizarzulmi/Projects/TravelApp/TravelApp/obj/Debug/netcoreapp2.0/TravelApp.pdb
