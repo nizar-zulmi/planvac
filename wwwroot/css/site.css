@@ -1,5 +1,4 @@
 ﻿body {
-    padding-top: 50px;
     padding-bottom: 20px;
 }
 
@@ -24,6 +23,50 @@
 /* QR code generator */
 #qrCode {
     margin: 15px;
+}
+
+.navbar a {
+    color: #484848;
+}
+
+.list-package {
+    margin-top: 35px;
+}
+
+.list-package .image-list {
+    width: 292.5px;
+}
+
+.package-search {
+    width: 300px; 
+    margin: 30px auto 30px auto;
+}
+
+.image-list .thumbnail {
+    border: none;
+    padding: 0;
+}
+
+.image-list .caption {
+    padding: 0;
+}
+
+.image-list h4 {
+    margin-bottom: 3px;
+}
+
+.image-list p {
+    color: #484848 !important;
+    font-size: 12px;
+}
+
+.thumbnail img {
+    width: 260px;
+    height: 330px;
+}
+
+.no-margin {
+    margin: 0;
 }
 
 /* Hide/rearrange for smaller screens */
